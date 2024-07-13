@@ -5,10 +5,10 @@ Welcome to the NOVA Text and Image Analyzer! 🤖This Streamlit app allows you t
 
 ## Table of Contents
 
-- [📦Dependencies](# 📦dependencies)
+- [📦Dependencies](#📦dependencies)
 - [How to Run](#how-to-run)
 - [🚀Usage](#🚀usage)
-- [🎥Video Demo](#🎥Video Demo)
+- [🎥Video Demo](#🎥VideoDemo)
 - [📸Screenshots](#📸Screenshots)
 - [🙏acknowledgments](🙏acknowledgments)
 
@@ -44,12 +44,12 @@ cd nova-text-image-analyzer
 
 ## 🚀Usage
 
-     1.*Run the Streamlit app:*
-     2.*Open your web browser and go to http://localhost:8501.*
-     3.*Enter a prompt in the text input box and optionally upload an image*
-     4.*Click "Generate Text" to generate text from the prompt.*
-     5.*Click "Analyze Image" to get a description of the uploaded image.*
-     6.*Choose whether you want to hear the generated text spoken aloud.*
+     1.**Run the Streamlit app:**
+     2.**Open your web browser and go to http://localhost:8501.**
+     3.**Enter a prompt in the text input box and optionally upload an image**
+     4.**Click "Generate Text" to generate text from the prompt.**
+     5.**Click "Analyze Image" to get a description of the uploaded image.**
+     6.**Choose whether you want to hear the generated text spoken aloud.**
 
 
 
