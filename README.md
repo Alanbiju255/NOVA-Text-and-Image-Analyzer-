@@ -1,4 +1,4 @@
-##🌟NOVA Text and Image Analyzer🌟
+#NOVA-Text-and-Image-Analyzer-
 
 Welcome to the NOVA Text and Image Analyzer! 🤖This Streamlit app allows you to: ✍ Generate text from prompts using Google's Gemini model.📸 Analyze images and get text descriptions.🗣 Have the generated text spoken aloud! 
 
@@ -11,7 +11,7 @@ Welcome to the NOVA Text and Image Analyzer! 🤖This Streamlit app allows you t
 - [🛠️Installation](#🛠️Installation)
 - [✨Features](#✨Features)
 - [🚀Usage](#🚀Usage)
-- [🎥Video Demo](#🎥Video Demo)
+- [🎥VideoDemo](#🎥VideoDemo)
 - [📸Screenshots](#📸Screenshots)
 - [🤝Contributor](#🤝Contributor) 
 - [🙏Acknowledgments](#acknowledgments)
