@@ -51,7 +51,8 @@ pip install -r requirements.txt
 
 ## 📸Screenshot
 
-<img src="https://github.com/Alanbiju255/NOVA-Text-and-Image-Analyzer-/issues/2#issue-2407074254">
+![ see Image ](https://github.com/Alanbiju255/NOVA-Text-and-Image-Analyzer-/issues/2#issue-2407074254)
+
 
 ## 🤝Contributor
 
